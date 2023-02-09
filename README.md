@@ -1,4 +1,4 @@
-React Website hosted on AWS Amplify with a Route53 custom domain added.
+Static React Website hosted on AWS Amplify with a Route53 custom domain added.
 
 AWS Amplify url --- https://main.dv00thdzvhq70.amplifyapp.com/
 
